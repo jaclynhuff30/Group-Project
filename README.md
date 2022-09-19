@@ -1,5 +1,8 @@
 # Group-Project
+
 Summer Kenney
-Jaclyn Huff
+
+Jaclyn Huf
+
 Caitlin McDaniel
 
