@@ -1,5 +1,5 @@
 # Group-Project-
--Jaclyn Huff
-Ja
-
+Jaclyn Huff   
+Summer Kenney
+Caitlin McDaniels
 
